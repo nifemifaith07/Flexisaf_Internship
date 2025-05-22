@@ -41,20 +41,6 @@ Welcome to the official repository for my **one-year internship** as a **Generat
 
 ---
 
-## 🧠 Highlights (To Be Updated)
-
-### Beginner Phase
-- ✅ Project 1: [Project Title](#)
-- ✅ Project 2: [Project Title](#)
-
-### Intermediate Phase
-- ⏳ Will be updated once phase begins
-
-### Advanced Phase
-- ⏳ Will be updated once phase begins
-
----
-
 ## 🛠️ Tools & Technologies
 
 - Python, Pandas, NumPy, Matplotlib, Seaborn
