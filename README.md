@@ -55,8 +55,8 @@ Welcome to the official repository for my **one-year internship** as a **Generat
 
 Feel free to connect or reach out:
 
-- **LinkedIn**: [Faith Amuda](https://www.linkedin.com/in/faith-amuda)]
-- **Email**: [nifemifaith07@gmail.com]
+- **LinkedIn**: [Faith Amuda](https://www.linkedin.com/in/faith-amuda)
+- **Email**: nifemifaith07@gmail.com
 
 ---
 
